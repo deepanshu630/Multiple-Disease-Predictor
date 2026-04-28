@@ -1,1 +1,1 @@
-# Multiple-Disease-Predictor
+# Diabetes Project
